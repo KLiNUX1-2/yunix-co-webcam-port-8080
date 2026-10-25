@@ -10,9 +10,9 @@ Sistem, kamera görüntülerini yerel ağ üzerinden görüntülemek için tasar
 
 - Kamera görüntüsünü görüntüleme
 - Python tabanlı sunucu
-- 8443 portu üzerinden erişim
+- 8080 portu üzerinden erişim
 
-Not
+NOT:
 
 Yunix Co bir şirket değildir. Bu ad yalnızca proje adı olarak kullanılmaktadır.
 
@@ -25,6 +25,12 @@ The system is designed to display camera images over the local network.
 Features
 
 - Viewing the camera image
-- 
--
+- Python-based Server
+- 8080 access via port
 
+NOT:
+
+Yunix Co is not a company. This name is used solely as a project name.
+
+Çevirmen(Translator): KLiNUX1-2
+Kod Yapımcısı(Code Producer): CHATGPT
