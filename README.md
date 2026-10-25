@@ -10,7 +10,7 @@ Sistem, kamera görüntülerini yerel ağ üzerinden görüntülemek için tasar
 
 - Kamera görüntüsünü görüntüleme
 - Python tabanlı sunucu
-- 8080 portu üzerinden erişim
+- 8443 portu üzerinden erişim
 
 NOT:
 
@@ -26,7 +26,7 @@ Features
 
 - Viewing the camera image
 - Python-based Server
-- 8080 access via port
+- 8443 access via port
 
 NOT:
 
